@@ -1,6 +1,6 @@
-# Advent of Code - Day 2
-# day_2_advent_2020.py
-# 2020.12.02
+# Advent of Code - Day 3
+# day_3_advent_2020.py
+# 2020.12.03
 # Jimmy Taylor
 
 import math
